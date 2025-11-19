@@ -35,23 +35,23 @@ The following KPIs were computed using SQL:
 
 - Total Revenue
 
-Total amount generated from all pizzas sold.
+  Total amount generated from all pizzas sold.
 
 - Average Order Value (AOV)
 
-Revenue per order.
+  Revenue per order.
 
 - Total Pizzas Sold
 
-Total number of pizzas purchased.
+  Total number of pizzas purchased.
 
 - Total Orders
 
-Count of unique orders placed.
+  Count of unique orders placed.
 
 - Average Pizzas Per Order
 
-Shows typical customer order size.
+  Shows typical customer order size.
 
 Example:
 
@@ -60,7 +60,7 @@ Example:
 More queries were created for trend analysis, percentage of sales by pizza size and best/worst sellers. 
 
 
-📈 **Dashboard Visuals**
+**Dashboard Visuals**
 
 An example of Power BI dashboard includes:
 
@@ -113,7 +113,7 @@ The average order value (~£38) suggests customers frequently buy multiple items
 
 - Chicken and classic flavours dominate sales, indicating strong preference for familiar, hearty, flavour-forward options.
 
--Vegetarian and specialty pizzas underperform, signaling an opportunity to:
+- Vegetarian and specialty pizzas underperform, signaling an opportunity to:
 
      Refresh recipes
 
