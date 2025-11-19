@@ -2,9 +2,9 @@
 
 🍕 **Pizza Sales Dashboard – SQL & Power BI Project**
 
-This project analyses a full year of pizza sales data using **SQL and Power BI** to uncover business performance trends, identify key revenue drivers, and build a clear set of decision-ready insights.
+This project analyses a full year of pizza sales data using **SQL and Power BI** to uncover business performance trends, identify key revenue drivers, and build a clear set of decision ready insights.
 
-The aim of the project was to design an end-to-end data analytics workflow from importing raw CSV files, transforming data in SQL Server, calculating KPIs through SQL queries, and finally visualising the insights in an interactive Power BI dashboard.
+The aim of the project was to design an end-to-end data analytics workflow from importing raw CSV files, transforming data in SQL Server, calculating queries through SQL, and finally visualising the insights in an interactive Power BI dashboard.
 
 🔍 Project Objectives
 
@@ -55,39 +55,43 @@ Shows typical customer order size.
 
 Example:
 
+<img width="640" height="577" alt="image" src="https://github.com/user-attachments/assets/388d5b07-f81c-4c1c-b702-83a05eb10656" />
+
+More queries were created for trend analysis, percentage of sales by pizza size and best/worst sellers. 
+
 
 📈 **Dashboard Visuals**
 
-The Power BI dashboard includes:
+An example of Power BI dashboard includes:
 
-1️⃣ Daily Trend of Orders
+1️. Daily Trend of Orders
 
 Shows which days customers order most.
 Helps with staffing & operational planning.
 
-2️⃣ Monthly Trend of Orders
+2️. Monthly Trend of Orders
 
 Reveals seasonal or monthly fluctuations.
 Useful for marketing & forecasting.
 
-3️⃣ Sales by Pizza Category
+3️. Sales by Pizza Category
 
 Breakdown of categories such as Classic, Supreme, Veggie, Chicken, etc.
 Shows which categories drive the most revenue.
 
-4️⃣ Sales by Pizza Size
+4️. Sales by Pizza Size
 
 Percentage breakdown of S, M, L, XL sales.
 Supports pricing & product strategy.
 
-5️⃣ Total Pizzas Sold by Category Table
+5️. Total Pizzas Sold by Category Table
 
 Quick comparison across product groups.
 
 **What the Analysis Revealed**
 1.  Total Revenue & Volume
 The business generated £817K+ in sales with 49K+ pizzas sold across the year.
-  This highlights a strong, consistent operating base.
+This highlights a strong, consistent operating base.
 
 2.  Customer Ordering Behaviour
 Orders peak on Fridays and Saturdays, showing classic weekend demand behaviour.
@@ -103,7 +107,21 @@ Large pizzas account for the highest proportion of sales.
 Smaller sizes contribute less than expected, which could indicate opportunities for pricing strategy changes.
 
 5.  Average Order Value Insight
-The average order value (~£38) suggests customers frequently buy multiple items per order — consistent with family or group ordering behaviour.
+The average order value (~£38) suggests customers frequently buy multiple items per order-consistent with family or group ordering behaviour.
+
+**Overall Patterns & Business Interpretation**
+
+- Chicken and classic flavours dominate sales, indicating strong preference for familiar, hearty, flavour-forward options.
+
+-Vegetarian and specialty pizzas underperform, signaling an opportunity to:
+
+     Refresh recipes
+
+     Rebrand the category
+
+     Consider discontinuing specific items
+
+The top sellers show both high revenue AND high volume, reinforcing that customers are buying them frequently not just because of higher price points.
 
 🧠 **Key Learnings & Achievements**
 
