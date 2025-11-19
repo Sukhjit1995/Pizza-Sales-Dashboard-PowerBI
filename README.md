@@ -63,22 +63,22 @@ The Power BI dashboard includes:
 1️⃣ Daily Trend of Orders
 
 Shows which days customers order most.
-👉 Helps with staffing & operational planning.
+Helps with staffing & operational planning.
 
 2️⃣ Monthly Trend of Orders
 
 Reveals seasonal or monthly fluctuations.
-👉 Useful for marketing & forecasting.
+Useful for marketing & forecasting.
 
 3️⃣ Sales by Pizza Category
 
 Breakdown of categories such as Classic, Supreme, Veggie, Chicken, etc.
-👉 Shows which categories drive the most revenue.
+Shows which categories drive the most revenue.
 
 4️⃣ Sales by Pizza Size
 
 Percentage breakdown of S, M, L, XL sales.
-👉 Supports pricing & product strategy.
+Supports pricing & product strategy.
 
 5️⃣ Total Pizzas Sold by Category Table
 
